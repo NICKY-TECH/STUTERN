@@ -1,0 +1,57 @@
+#unordered-parent{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px dotted green;
+    font-weight: lighter;
+
+}
+
+.unordered{
+    font-weight: bold;
+    border: 3px solid red;
+}
+
+#first-unordered{
+    color:aquamarine;
+}
+
+.first-unordered-child{
+    color:brown;
+}
+
+.second-unordered-child{
+    background-color:violet;
+}
+
+#second-unordered{
+    background-color:tomato;
+}
+
+#ordered-parent{
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ordered{
+    color: teal;
+}
+
+.first-ordered-child{
+    border: 2px solid pink;
+
+}
+
+#first-ordered{
+    border: 4px dotted gold;
+}
+
+#second-ordered{
+    font-weight: lighter;
+    background-color:yellowgreen;
+}
+
+.second-ordered-child{
+    font-weight: 700;
+    background-color: blueviolet;
+
+}
+
